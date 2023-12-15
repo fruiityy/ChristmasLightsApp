@@ -193,7 +193,7 @@
     }
   }
   
-  @-webkit-keyframes main-glow {
+  @keyframes @-webkit-keyframe() main-glow {
     0%, 100% {
       text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #c0392b, 0 0 60px #c0392b, 0 0 70px #c0392b;
     }
